@@ -18,6 +18,7 @@ class FornecedorController extends Controller
             1=>[
                 'nome'=>'fornecedor 1',
                 'status'=>'s',
+                'cnpj'=> null 
             ]
         
         ];
