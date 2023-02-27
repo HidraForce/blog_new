@@ -47,9 +47,11 @@ Status: {{$fornecedores[1]['status']}}<br>
 
 
 
+aaaa
 
+@isset()
 
-
+@endisset
 
 
 
